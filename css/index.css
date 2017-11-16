@@ -1,0 +1,42 @@
+
+::-webkit-scrollbar {
+
+        display: none;
+    }
+    ::-moz-scrollbar {
+
+        display: none;
+    }
+
+
+#main_frame
+{
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  height: 100%;
+  width: 100%;
+
+}
+
+#registration_main_div
+{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  height: 100%;
+  width: 100%;
+  display: none;
+
+}
+
+#starting_page_pr_team
+{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+    background: red;
+    display: block;
+}
